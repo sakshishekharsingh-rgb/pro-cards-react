@@ -38,13 +38,13 @@ src/
 ![Screenshot 1](Screenshot1.png.png)
 
 ### Screenshot 2
-![Screenshot 2](Screenshot2.png)
+![Screenshot 2](Screenshot2.png.png)
 
 ### Screenshot 3
-![Screenshot 3](Screenshot3.png)
+![Screenshot 3](Screenshot3.png.png)
 
 ### Screenshot 4
-![Screenshot 4](Screenshot4.png)
+![Screenshot 4](Screenshot4.png.png)
 
 ## 📚 What I Learned
 
